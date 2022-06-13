@@ -9,8 +9,9 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat-square&logo=Qt&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/labview-%23FFDB00?style=flat-square&logo=labview&logoColor=black)
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat-square&logo=Qt&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)  
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kimbyungnam&count_private=true&show_icons=true&include_all_commits=true)
 [![CodeForces Profile](https://cf.leed.at?id=_usan)](https://codeforces.com/profile/_usan)  
