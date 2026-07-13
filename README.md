@@ -13,5 +13,5 @@
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat-square&logo=Qt&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)  
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=kimbyungnam&count_private=true&show_icons=true&include_all_commits=true)
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=kimbyungnam)](https://github.com/stats-organization/github-stats-extended)
 [![CodeForces Profile](https://cf.leed.at?id=_usan)](https://codeforces.com/profile/_usan)  
